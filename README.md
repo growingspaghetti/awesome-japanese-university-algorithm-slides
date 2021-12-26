@@ -2,3 +2,7 @@
 
 [フラッシュカードソフトウェアAnki](https://apps.ankiweb.net/)用ファイルは[releases](https://github.com/growingspaghetti/awesome-japanese-university-algorithm-slides/releases)からダウンロードできる。
 
+ただ、[coursera.org/learn/algorithms-part1](https://www.coursera.org/learn/algorithms-part1)をやる方がおすすめです。
+
+
+
