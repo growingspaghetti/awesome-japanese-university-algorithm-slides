@@ -2,38 +2,38 @@
 
 [フラッシュカードソフトウェアAnki](https://apps.ankiweb.net/)用ファイルは[releases](https://github.com/growingspaghetti/awesome-japanese-university-algorithm-slides/releases)からダウンロードできる。
 
-ただ、[coursera.org/learn/algorithms-part1](https://www.coursera.org/learn/algorithms-part1)をやる方がおすすめです。
+[coursera.org/learn/algorithms-part1](https://www.coursera.org/learn/algorithms-part1)をやるのもおすすめです。
 
-JAIST
-- [01．プログラミングの基礎：最大値の計算，入力データの合計などの基礎]()
-- [02．アルゴリズムの基礎：解析の重要性（最大差区間を求める問題）]()
-- [03．探索問題（1）：逐次探索法，ｍブロック法，２重ｍブロック法]()
-- [04．探索問題（2）：２分探索法とその変形，正当性の証明，ハッシュ法]()
-- [05．データ構造（1）：探索問題に対応するデータ構造：配列，連結リスト]()
-- [06．データ構造（2）：連結リストの操作（検索，挿入，削除，連結）]()
-- [07．データ構造（3）：スタック，キュー，優先順位つきキュー]()
-- [08．データ構造（4）：２分探索木と平衡探索木]()
-- [09．ソーティング（1）：バブルソート，直接選択法，挿入法，ヒープソート]()
-- [10．ソーティング（2）：計数ソート，マージソート]()
-- [11．グラフアルゴリズム（1）：グラフの表現法，トポロジカルソート]()
-- [12．グラフアルゴリズム（2）：深さ優先探索，深さ優先探索の応用（２連結成分，強連結成分）]()
-- [13．グラフアルゴリズム（3）：最短経路問題（ダイクストラ法と動的計画法）]()
-- [14．文字列のパターンマッチング：素朴な方法とＫＭＰ法]()
+[JAIST](https://www.jaist.ac.jp/~uehara/course/2015/i111/index.html)
+- [01．プログラミングの基礎：最大値の計算，入力データの合計などの基礎](https://www.jaist.ac.jp/~uehara/course/2015/i111/pdf/01.pdf)
+- [02．アルゴリズムの基礎：解析の重要性（最大差区間を求める問題）](https://www.jaist.ac.jp/~uehara/course/2015/i111/pdf/02.pdf)
+- [03．探索問題（1）：逐次探索法，ｍブロック法，２重ｍブロック法](https://www.jaist.ac.jp/~uehara/course/2015/i111/pdf/03.pdf)
+- [04．探索問題（2）：２分探索法とその変形，正当性の証明，ハッシュ法](https://www.jaist.ac.jp/~uehara/course/2015/i111/pdf/04.pdf)
+- [05．データ構造（1）：探索問題に対応するデータ構造：配列，連結リスト](https://www.jaist.ac.jp/~uehara/course/2015/i111/pdf/05.pdf)
+- [06．データ構造（2）：連結リストの操作（検索，挿入，削除，連結）](https://www.jaist.ac.jp/~uehara/course/2015/i111/pdf/06.pdf)
+- [07．データ構造（3）：スタック，キュー，優先順位つきキュー](https://www.jaist.ac.jp/~uehara/course/2015/i111/pdf/07.pdf)
+- [08．データ構造（4）：２分探索木と平衡探索木](https://www.jaist.ac.jp/~uehara/course/2015/i111/pdf/08.pdf)
+- [09．ソーティング（1）：バブルソート，直接選択法，挿入法，ヒープソート](https://www.jaist.ac.jp/~uehara/course/2015/i111/pdf/09.pdf)
+- [10．ソーティング（2）：計数ソート，マージソート](https://www.jaist.ac.jp/~uehara/course/2015/i111/pdf/10.pdf)
+- [11．グラフアルゴリズム（1）：グラフの表現法，トポロジカルソート](https://www.jaist.ac.jp/~uehara/course/2015/i111/pdf/11.pdf)
+- [12．グラフアルゴリズム（2）：深さ優先探索，深さ優先探索の応用（２連結成分，強連結成分）](https://www.jaist.ac.jp/~uehara/course/2015/i111/pdf/12.pdf)
+- [13．グラフアルゴリズム（3）：最短経路問題（ダイクストラ法と動的計画法）](https://www.jaist.ac.jp/~uehara/course/2015/i111/pdf/13.pdf)
+- [14．文字列のパターンマッチング：素朴な方法とＫＭＰ法](https://www.jaist.ac.jp/~uehara/course/2015/i111/pdf/14.pdf)
 
-京都大学
-- [01.アルゴリズムとデータ構造とは]()
-- [02.アルゴリズムの評価]()
-- [03.リスト・ソート・ヒープソート]()
-- [04.分割統治法]()
-- [05.順序統計量・動的計画法]()
-- [06.探索問題（２分探索木）]()
-- [07. 探索問題（ハッシュ）]()
-- [08. 近傍探索]()
-- [09.グラフ（最短経路問題）]()
-- [10.グラフ（最大流問題）]()
-- [11.問題の難しさ]()
-- [12. 難しい問題への対処]()
-- [13.近似アルゴリズム・オンラインアルゴリズム]()
+[京都大学](https://hkashima.github.io/course_algorithm_2020.html)
+- [01.アルゴリズムとデータ構造とは](https://hkashima.github.io/algorithm2020_1.pdf)
+- [02.アルゴリズムの評価](https://hkashima.github.io/algorithm2020_2.pdf)
+- [03.リスト・ソート・ヒープソート](https://hkashima.github.io/algorithm2020_3.pdf)
+- [04.分割統治法](https://hkashima.github.io/algorithm2020_4.pdf)
+- [05.順序統計量・動的計画法](https://hkashima.github.io/algorithm2020_5.pdf)
+- [06.探索問題（２分探索木）](https://hkashima.github.io/algorithm2020_6.pdf)
+- [07. 探索問題（ハッシュ）](https://hkashima.github.io/algorithm2020_7.pdf)
+- [08. 近傍探索](https://hkashima.github.io/algorithm2020_8.pdf)
+- [09.グラフ（最短経路問題）](https://hkashima.github.io/algorithm2020_9.pdf)
+- [10.グラフ（最大流問題）](https://hkashima.github.io/algorithm2020_10.pdf)
+- [11.問題の難しさ](https://hkashima.github.io/algorithm2020_11.pdf)
+- [12. 難しい問題への対処](https://hkashima.github.io/algorithm2020_12.pdf)
+- [13.近似アルゴリズム・オンラインアルゴリズム](https://hkashima.github.io/algorithm2020_13.pdf)
 
 北海道大学
 - [01.ガイダンス]()
@@ -60,6 +60,9 @@ JAIST
 - [21.正規表現の照合]()
 - [22.圧縮テキスト上のパターン照合]()
 - [23.Re-Pair VF符号によるデータ圧縮]()
+
+[東京大学](https://www-ui.is.s.u-tokyo.ac.jp/~takeo/course/2020/algorithm/index.html)
+- [01. アルゴリズムと計算量 基本的なデータ構造](https://www-ui.is.s.u-tokyo.ac.jp/~takeo/course/2020/algorithm/introduction.pdf)
 
 大阪大学数理計画
 - [01.数理最適化モデルとその応用，線形計画問題とその定式化]()
