@@ -163,7 +163,6 @@ for url in $(cat README.md | grep -o -P '(?<=\()[^)]+(?=\))' | grep '.pdf')
 do
   echo "downloading ${url}"
   wget ${url}
-  echo ""
 done
 
 # PNG画像化
@@ -180,7 +179,7 @@ mogrify -background white -flatten  *.png
 # テキストファイルに列挙 古い順
 echo "making a tab file for anki"
 IFS=$'\n'
-files=$(ls -1 -tr| grep png)
+files=$(ls -1 -tr | grep png)
 for p in $files
 do
   echo "adding $p to algo-univ.tab for your anki deck"
