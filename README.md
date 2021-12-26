@@ -152,6 +152,9 @@
 - [3-8. 身体・運動](http://www.mi.u-tokyo.ac.jp/pdf/3-8_body.pdf)
 - [3-9. AIの構築・運用](http://www.mi.u-tokyo.ac.jp/pdf/3-9_ai_building.pdf)
 
+## [日本工業大学](https://shiroyasu.github.io/teaching/nit.html)
+- [テイラー展開・テイラー級数](https://shiroyasu.github.io/teaching/2014s/dic1-Taylorexpansion.pdf)
+
 # 機械的にダウンロードし、編集する例。大阪大学数理系を除く
 Linux系のOSを想定。ただ、それぞれのコマンドは問題ないと思うが、全体を通したテストはしていない。
 ```sh
