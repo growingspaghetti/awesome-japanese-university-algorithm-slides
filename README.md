@@ -1,6 +1,6 @@
 # 情報科学系 大学講義スライドリンク集
 
-~~[フラッシュカードソフトウェアAnki](https://apps.ankiweb.net/)用ファイルはreleasesからダウンロードできる。~~ できません。
+~~[フラッシュカードソフトウェアAnki](https://apps.ankiweb.net/)用ファイルはreleasesからダウンロードできる。~~ できません。[ページ一番下のスクリプト](https://github.com/growingspaghetti/awesome-japanese-university-algorithm-slides#%E6%A9%9F%E6%A2%B0%E7%9A%84%E3%81%AB%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89%E3%81%97%E7%B7%A8%E9%9B%86%E3%81%99%E3%82%8B%E4%BE%8B%E5%A4%A7%E9%98%AA%E5%A4%A7%E5%AD%A6%E6%95%B0%E7%90%86%E7%B3%BB%E3%82%92%E9%99%A4%E3%81%8F)を試してみて下さい。
 
 [coursera.org/learn/algorithms-part1](https://www.coursera.org/learn/algorithms-part1)をやるのもおすすめです。
 
