@@ -4,7 +4,7 @@
 
 [coursera.org/learn/algorithms-part1](https://www.coursera.org/learn/algorithms-part1)をやるのもおすすめです。
 
-[JAIST](https://www.jaist.ac.jp/~uehara/course/2015/i111/index.html)
+## [JAIST](https://www.jaist.ac.jp/~uehara/course/2015/i111/index.html)
 - [01．プログラミングの基礎：最大値の計算，入力データの合計などの基礎](https://www.jaist.ac.jp/~uehara/course/2015/i111/pdf/01.pdf)
 - [02．アルゴリズムの基礎：解析の重要性（最大差区間を求める問題）](https://www.jaist.ac.jp/~uehara/course/2015/i111/pdf/02.pdf)
 - [03．探索問題（1）：逐次探索法，ｍブロック法，２重ｍブロック法](https://www.jaist.ac.jp/~uehara/course/2015/i111/pdf/03.pdf)
@@ -20,7 +20,7 @@
 - [13．グラフアルゴリズム（3）：最短経路問題（ダイクストラ法と動的計画法）](https://www.jaist.ac.jp/~uehara/course/2015/i111/pdf/13.pdf)
 - [14．文字列のパターンマッチング：素朴な方法とＫＭＰ法](https://www.jaist.ac.jp/~uehara/course/2015/i111/pdf/14.pdf)
 
-[京都大学](https://hkashima.github.io/course_algorithm_2020.html)
+## [京都大学](https://hkashima.github.io/course_algorithm_2020.html)
 - [01.アルゴリズムとデータ構造とは](https://hkashima.github.io/algorithm2020_1.pdf)
 - [02.アルゴリズムの評価](https://hkashima.github.io/algorithm2020_2.pdf)
 - [03.リスト・ソート・ヒープソート](https://hkashima.github.io/algorithm2020_3.pdf)
@@ -35,7 +35,7 @@
 - [12. 難しい問題への対処](https://hkashima.github.io/algorithm2020_12.pdf)
 - [13.近似アルゴリズム・オンラインアルゴリズム](https://hkashima.github.io/algorithm2020_13.pdf)
 
-北海道大学
+## 北海道大学
 - [01.ガイダンス]()
 - [02.アルゴリズムと計算量]()
 - [03.基本的なデータ構造(1)]()
@@ -61,10 +61,10 @@
 - [22.圧縮テキスト上のパターン照合]()
 - [23.Re-Pair VF符号によるデータ圧縮]()
 
-[東京大学](https://www-ui.is.s.u-tokyo.ac.jp/~takeo/course/2020/algorithm/index.html)
+## [東京大学](https://www-ui.is.s.u-tokyo.ac.jp/~takeo/course/2020/algorithm/index.html)
 - [01. アルゴリズムと計算量 基本的なデータ構造](https://www-ui.is.s.u-tokyo.ac.jp/~takeo/course/2020/algorithm/introduction.pdf)
 
-大阪大学数理計画
+## 大阪大学数理計画
 - [01.数理最適化モデルとその応用，線形計画問題とその定式化]()
 - [02.単体法とその実装]()
 - [03.緩和問題と双対定理]()
@@ -79,7 +79,7 @@
 - [12.最短路問題と動的計画法]()
 - [13.巡回セールスマン問題と近似解法]()
 
-大阪大学数理最適化
+## 大阪大学数理最適化
 - [01.組合せ最適化による問題解決の実践的なアプローチ]()
 - [02.60分で学ぶ数理最適化]()
 - [03.線形計画法入門]()
@@ -89,7 +89,7 @@
 - [07.組合せ最適化問題の近似解法]()
 - [08.分枝限定法と切除平面法]()
 
-東北大学数理計画法
+## 東北大学数理計画法
 - [01.数理最適化モデル]()
 - [02.線形最適化その1]()
 - [03.線形最適化その2]()
@@ -103,7 +103,7 @@
 - [12.非線形計画その2]()
 - [13.非線形計画その3]()
 
-東京大学 数理・データサイエンス・AI リテラシー
+## 東京大学 数理・データサイエンス・AI リテラシー
 - [1-1. 社会で起きている変化]()
 - [1-2. 社会で活用されているデータ]()
 - [1-3. データ・AIの活用領域]()
@@ -124,7 +124,7 @@
 - [4-8. データ活用実践（教師あり学習）]()
 - [4-9. データ活用実践（教師なし学習）]()
 
-東京大学 数理・データサイエンス・AI 応用
+## 東京大学 数理・データサイエンス・AI 応用
 - [1-1. データ駆動型社会とデータサイエンス]()
 - [1-2. 分析設計]()
 - [1-3. データ観察]()
