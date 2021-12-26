@@ -152,3 +152,38 @@
 - [3-8. 身体・運動](http://www.mi.u-tokyo.ac.jp/pdf/3-8_body.pdf)
 - [3-9. AIの構築・運用](http://www.mi.u-tokyo.ac.jp/pdf/3-9_ai_building.pdf)
 
+# 機械的にダウンロードし、編集する例。大阪大学数理系を除く
+Linux系のOSを想定。ただ、それぞれのコマンドは問題ないと思うが、全体を通したテストはしていない。
+```sh
+mkdir slides
+cd slides
+
+# ダウンロード
+for url in $(cat README.md | grep -o -P '(?<=\()[^)]+(?=\))' | grep '.pdf')
+do
+  echo "downloading ${url}"
+  wget ${url}
+  echo ""
+done
+
+# PNG画像化
+for p in *.pdf
+do
+  echo "making png images using imagemagick"
+  convert $p "$(basename "$p" .pdf)-%03d.png"
+done
+
+# PNGバックグラウンド背景色編集
+echo "removing background transparency"
+mogrify -background white -flatten  *.png
+
+# テキストファイルに列挙 古い順
+echo "making a tab file for anki"
+IFS=$'\n'
+files=$(ls -1 -tr| grep png)
+for p in $files
+do
+  echo "adding $p to algo-univ.tab for your anki deck"
+  echo "<img src=\"$p\">" >> algo-univ.tab
+done
+```
