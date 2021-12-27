@@ -169,15 +169,18 @@ do
 done
 
 # PNG画像化
-for p in *.pdf
+for p in $(ls -1 -tr | grep pdf)
 do
-  echo "making png images using imagemagick"
+  echo "making png images using imagemagick: ${p}"
   convert $p "$(basename "$p" .pdf)-%03d.png"
 done
 
 # PNGバックグラウンド背景色編集
 echo "removing background transparency"
-mogrify -background white -flatten  *.png
+for p in $(ls -1 -tr | grep png)
+do
+  mogrify -background white -flatten "${p}"
+done
 
 # テキストファイルに列挙 古い順
 echo "making a tab file for anki"
