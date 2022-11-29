@@ -155,6 +155,12 @@
 ## [日本工業大学](https://shiroyasu.github.io/teaching/nit.html)
 - [テイラー展開・テイラー級数](https://shiroyasu.github.io/teaching/2014s/dic1-Taylorexpansion.pdf)
 
+## [米田 優峻](https://speakerdeck.com/e869120)
+- 150分で学ぶ高校数学の基礎
+- 30分でわかる！アルゴリズムの基本
+- 50分で学ぶアルゴリズム
+- 数理最適化ことはじめ
+
 # 機械的にダウンロードし、編集する例。大阪大学数理系を除く
 Linux系のOSを想定。ただ、それぞれのコマンドは問題ないと思うが、全体を通したテストはしていない。
 ```sh
