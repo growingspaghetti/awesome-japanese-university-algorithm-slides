@@ -155,6 +155,15 @@
 ## [日本工業大学](https://shiroyasu.github.io/teaching/nit.html)
 - [テイラー展開・テイラー級数](https://shiroyasu.github.io/teaching/2014s/dic1-Taylorexpansion.pdf)
 
+## [会津大学 計算幾何学](http://i-health.u-aizu.ac.jp/CompuGeo/2017/)
+- [1. 基本概念](http://i-health.u-aizu.ac.jp/CompuGeo/2017/handouts/chapter1/Chapter1S.pdf)
+- [2. 線分の交差](http://i-health.u-aizu.ac.jp/CompuGeo/2017/handouts/chapter2/Chapter2S.pdf)
+- [3. 凸包](http://i-health.u-aizu.ac.jp/CompuGeo/2017/handouts/chapter3/Chapter3S.pdf)
+- [4. ボロノイ図](http://i-health.u-aizu.ac.jp/CompuGeo/2017/handouts/chapter4/Chapter4S.pdf)
+- [5. ドローネ三角形分割](http://i-health.u-aizu.ac.jp/CompuGeo/2017/handouts/chapter5/Chapter5S.pdf)
+- [6. 幾何的領域探索](http://i-health.u-aizu.ac.jp/CompuGeo/2017/handouts/chapter6/Chapter6S.pdf)
+- [7. 多角形の三角形分割](http://i-health.u-aizu.ac.jp/CompuGeo/2017/handouts/chapter7/Chapter7S.pdf)
+
 ## [米田 優峻](https://speakerdeck.com/e869120)
 - 150分で学ぶ高校数学の基礎
 - 30分でわかる！アルゴリズムの基本
