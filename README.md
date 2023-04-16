@@ -20,6 +20,17 @@
 - [13．グラフアルゴリズム（3）：最短経路問題（ダイクストラ法と動的計画法）](https://www.jaist.ac.jp/~uehara/course/2015/i111/pdf/13.pdf)
 - [14．文字列のパターンマッチング：素朴な方法とＫＭＰ法](https://www.jaist.ac.jp/~uehara/course/2015/i111/pdf/14.pdf)
 
+## [JAIST 計算幾何学](https://www.jaist.ac.jp/~uehara/course/2014/i481f/index.html)
+- [10. 計算幾何学：歴史的背景から応用まで](https://www.jaist.ac.jp/~uehara/course/2014/i481f/pdf/ppt-1.pdf)
+- [20. 凸多角形に関する問題](https://www.jaist.ac.jp/~uehara/course/2014/i481f/pdf/ppt-2.pdf)
+- [30. 凸包](https://www.jaist.ac.jp/~uehara/course/2014/i481f/pdf/ppt-3.pdf)
+- [40. 幾何的データ構造](https://www.jaist.ac.jp/~uehara/course/2014/i481f/pdf/ppt-4.pdf)
+- [50. 平面操作法](https://www.jaist.ac.jp/~uehara/course/2014/i481f/pdf/ppt-5.pdf)
+- [60. ボロノイ図とドローネ三角形分割](https://www.jaist.ac.jp/~uehara/course/2014/i481f/pdf/ppt-6.pdf)
+- [61. ピラミッド折り問題の多項式時間解法](https://www.jaist.ac.jp/~uehara/course/2014/i481f/pdf/20131214JOAS.pdf)
+- [70. 最小包含円問題](https://www.jaist.ac.jp/~uehara/course/2014/i481f/pdf/ppt-7.pdf)
+- [71. 複数の箱が折れる展開図](https://www.jaist.ac.jp/~uehara/course/2014/i481f/pdf/20141205ComputationalOrigamiUehara.pdf)
+
 ## [京都大学](https://hkashima.github.io/course_algorithm_2020.html)
 - [01.アルゴリズムとデータ構造とは](https://hkashima.github.io/algorithm2020_1.pdf)
 - [02.アルゴリズムの評価](https://hkashima.github.io/algorithm2020_2.pdf)
